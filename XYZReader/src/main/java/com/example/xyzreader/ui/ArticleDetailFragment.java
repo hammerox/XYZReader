@@ -133,7 +133,6 @@ public class ArticleDetailFragment extends Fragment implements
 //        });
 
         mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
-        mPhotoContainerView = mRootView.findViewById(R.id.photo_container);
 
         mStatusBarColorDrawable = new ColorDrawable(0);
 
@@ -274,9 +273,6 @@ public class ArticleDetailFragment extends Fragment implements
             return Integer.MAX_VALUE;
         }
 
-        // account for parallax
-        return mIsCard
-                ? (int) mPhotoContainerView.getTranslationY() + mPhotoView.getHeight() - mScrollY
-                : mPhotoView.getHeight() - mScrollY;
+        return 0;
     }
 }
