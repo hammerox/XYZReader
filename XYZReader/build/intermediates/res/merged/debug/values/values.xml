@@ -52,7 +52,7 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <color name="photo_placeholder">#ccc</color>
+    <color name="photo_placeholder">#CCCCCC</color>
     <color name="primary">#009688</color>
     <color name="primary_dark">#00796B</color>
     <color name="primary_dark_material_dark">#ff000000</color>

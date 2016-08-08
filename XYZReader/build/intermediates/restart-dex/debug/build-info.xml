@@ -4,27 +4,27 @@
     api-level="19"
     density="hdpi"
     format="7"
-    timestamp="1457512342318795"
+    timestamp="1459774050383250"
     token="8091621252901773311" >
 
     <task
         name="javac"
-        duration="643" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="99" />
+        duration="0" />
     <task
         name="verifier"
-        duration="19" />
+        duration="0" />
 
     <artifact
         location="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\outputs\apk\XYZReader-debug.apk"
         type="MAIN" />
 
-    <build timestamp="1457512342318795" >
+    <build timestamp="1459774050383250" >
         <artifact
             location="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
