@@ -1811,7 +1811,14 @@
                     "endOffset": 31003
                 },
                 "from": {
-                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 52,
+                        "endOffset": 138
+                    }
                 }
             },
             {
@@ -1991,14 +1998,7 @@
                     "endOffset": 31968
                 },
                 "from": {
-                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 338,
-                        "endColumn": 46,
-                        "endOffset": 380
-                    }
+                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -2010,14 +2010,7 @@
                     "endOffset": 32013
                 },
                 "from": {
-                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 385,
-                        "endColumn": 44,
-                        "endOffset": 425
-                    }
+                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
@@ -2029,14 +2022,7 @@
                     "endOffset": 32057
                 },
                 "from": {
-                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 43,
-                        "endOffset": 333
-                    }
+                    "file": "C:\\Users\\Mauricio\\AndroidStudioProjects\\01 - TUTORIALS\\XYZ\\XYZReader\\src\\main\\res\\values\\dimens.xml"
                 }
             },
             {
