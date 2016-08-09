@@ -1,3 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_aed3a520c8df0c9c40da738d906745588b0d7167\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_ce8853a1cfc868050257868c58bfb7fb9b6161ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_c499a5abde8165211cf35788bf62ad2db648d30b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_4838b8b0110d3906f3ba3e545a00a0b724dda413\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_02800bc80f29cb14a5c063c1e3c256ef4be2fc8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_ffdb7962763593d05a3c86609182c24cd35bb074\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b3f2f82a3805cb689e32238c95cb291a433b4323">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.1.1_e563827e7e8b6c80c16975a72ee5023ebdcda13a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bf444ccc415bfd760013cd8b261bcf4890bcab8f">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e7110948c0d78cd72295e49b6015ba6659d6882\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_5351878e239c4ff8e8da80da8997b2df62a50ab4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_d463917b9d70567d2a1efb1ffca10dc3c3f4d356\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_e9152dad3c254ec481e48c810ceaae31c4c8afd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_22630dae0f57b014baa214fed7d5cbe54c9a2748\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ca16ddbe2948d14457e3847ebfcdd8ae99bb7164">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d392bee7397f0b7d1b332e4ba71f21578a3940b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_e67d6a1bdf823cb935ca6b5a76d9ab77e67f08b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.0.0_a5af31ad28622368e1746f3984c29201e46e4297\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_e8b3e1c1b8f0c26891a98403a8fb91c2fe9355bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mauricio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\01 - TUTORIALS\XYZ\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_92cce77447c5ff7f9886b3ff6d339a504e6fac33\classes.dex" />
+    </item>
+
+</items>
