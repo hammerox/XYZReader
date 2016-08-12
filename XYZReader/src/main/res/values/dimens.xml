@@ -10,5 +10,7 @@
     <dimen name="elevation_appbar">4dp</dimen>
     <dimen name="elevation_card">2dp</dimen>
     <dimen name="appbar_size">400dp</dimen>
+    <dimen name="list_item_margin">4dp</dimen>
+    <dimen name="list_bottom_margin">28dp</dimen>
 
 </resources>
